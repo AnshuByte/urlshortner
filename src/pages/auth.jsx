@@ -1,7 +1,7 @@
 import React from "react";
 
-const LandingPage = () => {
-  return <div>LandingPage</div>;
+const Auth = () => {
+  return <div>Auth</div>;
 };
 
-export default LandingPage;
+export default Auth;

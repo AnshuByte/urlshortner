@@ -1,7 +1,7 @@
 import React from "react";
 
-const LandingPage = () => {
-  return <div>LandingPage</div>;
+const Redirect = () => {
+  return <div>Redirect</div>;
 };
 
-export default LandingPage;
+export default Redirect;
